@@ -89,7 +89,10 @@ Contributions, suggestions, and improvements are welcome!
 - [x] Day 5
 - [x] Day 6
 - [x] Day 7
-- [ ] Day 8
+- [x] Day 8
+- [x] Day 9
+- [x] Day 10
+- [ ] Day 11  
 - ...
 - [ ] Day 25
 
