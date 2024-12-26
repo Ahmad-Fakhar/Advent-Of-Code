@@ -97,9 +97,16 @@ Contributions, suggestions, and improvements are welcome!
 - [x] Day 13
 - [x] Day 14
 - [x] Day 15
-- [ ] Day 16  
-- ...
-- [ ] Day 25
+- [x] Day 16
+- [x] Day 17
+- [x] Day 18
+- [x] Day 19
+- [x] Day 20
+- [x] Day 21
+- [x] Day 22
+- [x] Day 23
+- [x] Day 24
+- [x] Day 25
 
 ## 📜 License
 
